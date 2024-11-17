@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey👋
+I'm mehran  an ai researcher and developer who specializes in **deep learning**  **quantitative finance**  and **algorithmic trading**. my work blends cutting-edge **machine learning models** with real-world applications in finance. 
 
-<!--
-**momentumai-quant/momentumai-quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **What I Do**:  
+- Develop educational content and tools at [Momentum Academy](https://momentumacademy.ir).  
+- Build intelligent systems for financial market prediction and trading automation at [Momentum AI](https://momentumai.ir).  
+ 
 
-Here are some ideas to get you started:
+🚀 **Current Research Interests**:  
+- Deep learning architectures for **time-series forecasting**.  
+- LLMS and Natural Language Processing for **financial data analysis**     
+- Deep Reinforcement learning for **trading and portfolio optimization**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let’s Connect**:  
+- Email: mehran.pydev@gmail.com  
+- Websites: [Momentum Academy](https://momentumacademy.ir) | [Momentum AI](https://momentumai.ir)  
+
+ 
