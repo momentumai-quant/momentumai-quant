@@ -12,7 +12,7 @@ I'm mehran  an ai researcher and developer who specializes in **deep learning** 
 - Deep Reinforcement learning for **trading and portfolio optimization**.  
 
 📫 **Let’s Connect**:  
-- Email: mehran.pydev@gmail.com  
+- Email: mehran.daryaei.dev@gmail.com
 - Websites: [Momentum Academy](https://momentumacademy.ir) | [Momentum AI](https://momentumai.ir)  
 
  
