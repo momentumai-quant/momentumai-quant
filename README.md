@@ -13,6 +13,8 @@ I'm mehran  an ai researcher and developer who specializes in **deep learning** 
 
 📫 **Let’s Connect**:  
 - Email: mehran.daryaei.dev@gmail.com
+- Telegram ID: @https://t.me/daryaei_mehran  
+- Telegram Channel : @momentumai
 - Websites:  [Momentum AI](https://momentumai.ir/en)  
  [Momentum Academy](https://momentumacademy.ir) |
  
